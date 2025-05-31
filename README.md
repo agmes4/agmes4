@@ -1,6 +1,5 @@
 ## Hi there 👋
-Im Alex doing a lot of IT stuff, like IoT, Network, Programming stuff in every language I come along, Privacy stuff and so on...
-
+I'm Alex and I do a lot of IT stuff, such as IoT, pentesting, networking and programming in every language I come across. 
 lets encrypt: (GPG Pub Key) 
 mDMEZ3O0QBYJKwYBBAHaRw8BAQdA6EfHuyxp/SOuyGvfknmzMXN0QK/g1453ULdg vVYpS420LkFsZXhhbmRlciBMaW5kbmVyIDxhbGV4YW5kZXIubGluZG5lckBhZ2Rz bi5kZT6ImQQTFgoAQ
 <!--
